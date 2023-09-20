@@ -1,0 +1,3 @@
+{
+    "postStartCommand": "pip3 install pytest mock"
+}
