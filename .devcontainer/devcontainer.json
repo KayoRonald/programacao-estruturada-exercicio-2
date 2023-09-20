@@ -2,7 +2,6 @@
 // https://github.com/devcontainers/images/tree/main/src/javascript-node
 {
     "name": "teste",
-    "image": "mcr.microsoft.com/devcontainers/universal:2",
     "hostRequirements": {
       "cpus": 4
     },
